@@ -1,7 +1,7 @@
 [![Header](https://github.com/gremoriru/Checklist/blob/main/asset/checklist.jpg)]()
 ## This repository stores various public checklists created during the learning process
 
-### Collections
+### CheckList
 - [Aliexpress](https://docs.google.com/spreadsheets/d/1-NugxWAQ4N0FftaucRvI29HWJmYBnVRCoD-gQXleog8/edit?usp=sharing)
 
 ### Testing Documentation
